@@ -1,0 +1,11 @@
+D:\154120\Work\Code\MyRESTService\MyRESTService\bin\Debug\netcoreapp2.0\MyRESTService.deps.json
+D:\154120\Work\Code\MyRESTService\MyRESTService\bin\Debug\netcoreapp2.0\MyRESTService.runtimeconfig.json
+D:\154120\Work\Code\MyRESTService\MyRESTService\bin\Debug\netcoreapp2.0\MyRESTService.runtimeconfig.dev.json
+D:\154120\Work\Code\MyRESTService\MyRESTService\bin\Debug\netcoreapp2.0\MyRESTService.dll
+D:\154120\Work\Code\MyRESTService\MyRESTService\bin\Debug\netcoreapp2.0\MyRESTService.pdb
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.csprojAssemblyReference.cache
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.csproj.CoreCompileInputs.cache
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.AssemblyInfoInputs.cache
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.AssemblyInfo.cs
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.dll
+D:\154120\Work\Code\MyRESTService\MyRESTService\obj\Debug\netcoreapp2.0\MyRESTService.pdb
